@@ -1,6 +1,7 @@
+![MasterHead](https://github.com/vinay912005/vinayJ/blob/main/codingBack.jpg?raw=true)
 <h1 align="center">Hi 👋, I'm VINAY J</h1>
 <h3 align="center">A passionate Full stack developer from India</h3>
-
+<img align="right" width="400px" source="">
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vinay912005" alt="vinay912005" /></a> </p>
 
 - 🔭 I’m currently working on [Destructor](https://github.com/vinay912005/Destructor.git)
